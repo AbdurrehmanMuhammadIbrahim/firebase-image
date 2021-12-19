@@ -1,0 +1,40 @@
+.webadmin{
+    margin: 0%;
+    padding: 0%;
+}
+.nav{
+    margin: 0%;
+    padding: 0%;
+}
+.btn{
+    padding: 5%;
+}
+form .box{
+    margin-right: 5% !important;
+    margin-left: 2% !important;
+    margin-bottom: 2%;
+    width: 90% !important;
+    background-color: white;
+    height: fit-content;
+    border-radius: 10px !important;
+  
+  }
+  .nav-itms{
+    text-decoration: none !important;
+    color: white;
+    margin-right: 10px ;
+    font-size: 22px;
+  
+  }
+  
+  .nav-main{
+    color: white !important;
+    font-weight: 600;
+    font-size: 24px !important;
+    margin-right: 2% !important;
+  }
+  
+  Link{
+    text-decoration: none !important;
+  
+  }
